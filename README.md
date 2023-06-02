@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bravo-ZR
-- 👀 I’m interested in Coding,Gaming,Graphics Designing,Web Building etc.
-- 🌱 I’m currently learning HTML,CSS.
-- 📫 You can reach me by gmail= bravo101rl@gmail.com
+- 👀 I’m interested in Coding, Graphics Designing.
+- 🌱 I’m currently mastering Blender and Python.
 
 <!---
 Bravo-ZR/Bravo-ZR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
