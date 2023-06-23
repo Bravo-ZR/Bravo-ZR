@@ -10,7 +10,7 @@
 - Python(Intermediate)
 - Web Development(Learing)
 - Blender(Advanced)
-- 
+
 
 
 
