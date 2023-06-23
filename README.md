@@ -8,7 +8,7 @@
 ### My Skills:
 - C++(Beginner)
 - Python(Intermediate)
-- Web Development(Learing)
+- Web Development(Learning)
 - Blender(Advanced)
 
 
