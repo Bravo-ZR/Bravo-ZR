@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anindya</h1>
-<h3 align="center">I like to code and make 3D models</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- ⚡ Fun fact **I am a student**
-
-### My Skills:
-- C++(Beginner)
-- Python(Intermediate)
-- Web Development(Learning)
-- Blender(Advanced)
+I’m currently learning **Python**
 
 
 
